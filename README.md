@@ -1,8 +1,8 @@
-# My-Diary
-My Diary is a Spring Framework-based web app for securely managing personal diary entries with features like user authentication, CRUD operations, and session management. It uses JSP for the frontend and Hibernate with MySQL for the backend. Future updates aim to integrate Spring Security for enhanced authentication and authorization.
+# **My-Diary**
+My Diary is a Spring Framework-based web application for securely managing personal diary entries with features like user authentication, CRUD operations, and session management. It uses JSP for the frontend and Hibernate with MySQL for the backend. Future updates aim to integrate Spring Security for enhanced authentication and authorization.
 # My Diary  
 
-**My Diary** is a web application built using the Spring MVC framework that enables users to securely log and manage their personal diary entries. It offers essential features like user authentication, session management, and CRUD operations, ensuring a seamless and efficient user experience.  
+
 
 ## 🚀 Features  
 - **User Authentication**: Secure login and registration.  
