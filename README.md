@@ -13,7 +13,7 @@ My Diary is a Spring Framework-based web application for securely managing perso
 
 ## 🛠️ Tech Stack  
 - **Backend**: Spring MVC, Hibernate  
-- **Frontend**: JSP, HTML, CSS, JavaScript  
+- **Frontend**: JSP, HTML, CSS  
 - **Database**: MySQL  
 - **Build Tool**: Maven  
 
